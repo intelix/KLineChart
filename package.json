@@ -8,6 +8,7 @@
     "LICENSE",
     "README.md",
     "docs/",
+    "src/",
     "index.js",
     "index.blank.js",
     "index.simple.js",
