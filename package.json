@@ -9,6 +9,8 @@
     "README.md",
     "docs/",
     "src/",
+    "config/",
+    "types/",
     "index.js",
     "index.blank.js",
     "index.simple.js",
