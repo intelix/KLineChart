@@ -130,6 +130,7 @@ export default class ChartPane {
         })
       })
       if (paneId) {
+        console.log("!>>> Test")
         this._chartStore.actionStore().execute(ActionType.CROSSHAIR, {
           paneId,
           coordinate: { x, y },
