@@ -18,7 +18,8 @@
     "dist/",
     "lib/",
     "licenses/",
-    "NOTICE"
+    "NOTICE",
+    ".babelrc"
   ],
   "repository": {
     "type": "git",
